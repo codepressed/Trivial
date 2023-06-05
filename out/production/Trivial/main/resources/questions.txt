@@ -1,0 +1,9 @@
+Llueve?
+true
+4
+No llueve?
+false
+4
+Estás bien?
+true
+5
